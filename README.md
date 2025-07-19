@@ -36,11 +36,14 @@ Welcome to my personal developer portfolio! This is a responsive website that hi
 ## 📁 Folder Structure
 
 Arian-s-Portfolio-Website/
-├── index.html         # Main HTML file
-├── style.css          # Custom CSS styling
-├── images/            # Logos, screenshots, and profile image
-└── README.md          # Project documentation
 
+├── index.html         # Main HTML file
+
+├── style.css          # Custom CSS styling
+
+├── images/            # Logos, screenshots, and profile image
+
+└── README.md          # Project documentation
 ## 🚀 Getting Started
 
 **To run this project locally:**

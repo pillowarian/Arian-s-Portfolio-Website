@@ -236,6 +236,11 @@ nav .right a span {
   color: #13AA52;
 }
 
+/* Differentiate MySQL from MongoDB when using fa-database */
+.skills-section .tech-icon .mysql-icon {
+  color: #4479A1; /* MySQL blue */
+}
+
 .skills-section .tech-icon .fa-fire {
   color: #FFCA28;
 }

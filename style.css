@@ -192,6 +192,13 @@ nav .right a span {
   margin-bottom: 8px;
 }
 
+.skills-section .tech-icon img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  margin-bottom: 8px;
+}
+
 /* Original Colors for Tech Icons */
 .skills-section .tech-icon .fa-html5 {
   color: #E34C26;
